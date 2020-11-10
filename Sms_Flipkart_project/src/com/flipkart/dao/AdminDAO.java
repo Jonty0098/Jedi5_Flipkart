@@ -12,3 +12,4 @@ public interface AdminDAO {
 	public void DeleteUserDAO(int id);	
 	//public void AddAdmin(User user);
 }
+
